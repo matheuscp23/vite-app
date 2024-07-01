@@ -11,7 +11,7 @@ You can view the live demo of this project at the following link:
 In the project directory, you can run:
 ### `npm install`
 
-Before starting the React project, you should install the Node dependencies using: `npm install`
+Before starting the React-Vite project, you should install the Node dependencies using: `npm install`
 
 ### `npm run dev`
 

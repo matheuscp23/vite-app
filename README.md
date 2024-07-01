@@ -1,7 +1,25 @@
 # React + Vite
 
-# live code
-https://vite-app-five.vercel.app/
+# Live Demo
+
+You can view the live demo of this project at the following link:
+
+[Live Demo](https://vite-app-five.vercel.app/)
+
+## Available Scripts
+
+In the project directory, you can run:
+### `npm install`
+
+Before starting the React project, you should install the Node dependencies using: `npm install`
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
